@@ -3,14 +3,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack_&_DevOps-blueviolet?style=for-the-badge&logo=codeforces" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Experience-5+_Years-blue?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-7+_Years-blue?style=for-the-badge" alt="Experience"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Saya adalah seorang **Full-Stack Web Developer** berpengalaman lebih dari 5 tahun dalam membangun aplikasi web performa tinggi, sistem backend skala besar, dan pengelolaan infrastruktur server. Spesialisasi saya terletak pada arsitektur pengolahan data asinkron (*task management*), pemrosesan data (*web scraping*), otomasi pihak ketiga, serta integrasi AI modern ke dalam alur kerja aplikasi.
+Saya adalah seorang **Full-Stack Web Developer** berpengalaman lebih dari 7 tahun dalam membangun aplikasi web performa tinggi, sistem backend skala besar, dan pengelolaan infrastruktur server. Spesialisasi saya terletak pada arsitektur pengolahan data asinkron (*task management*), pemrosesan data (*web scraping*), otomasi pihak ketiga, serta integrasi AI modern ke dalam alur kerja aplikasi.
 
 - 💼 **Karier:** Mantan IT Manager di Aksiberbagi.com & Backend Developer di PT Layana Computindo.
 - 🌱 **Fokus Saat Ini:** Optimasi arsitektur microservices, SaaS multi-tenant, dan sistem berbasis antrean data (*job queues*).
