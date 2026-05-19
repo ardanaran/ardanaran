@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Fullstack Engineer with **5+ years** of hands-on experience building production-grade SaaS platforms, high-throughput backend systems, and DevOps infrastructure. I've independently built 4 SaaS products from scratch — spanning edtech, fintech, and marketing — and managed full-stack operations for platforms serving thousands of users.
+Fullstack Engineer with **7+ years** of hands-on experience building production-grade SaaS platforms, high-throughput backend systems, and DevOps infrastructure. I've independently built 4 SaaS products from scratch — spanning edtech, fintech, and marketing — and managed full-stack operations for platforms serving thousands of users.
 
 - 🏗️ **Currently building:** CBT360, BankSync Automator, FinFamily Pro, ProSite Builder
 - ⚡ **Reduced server downtime by 40%** and **improved DB performance by 25%** at Aksiberbagi.com
