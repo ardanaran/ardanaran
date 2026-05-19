@@ -1,97 +1,133 @@
-# Hi there, I'm Ardan Adi Nugroho! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_&_DevOps-blueviolet?style=for-the-badge&logo=codeforces" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Experience-7+_Years-blue?style=for-the-badge" alt="Experience"/>
-</p>
+# Ardan Adi Nugroho
+### Fullstack Engineer · SaaS Builder · DevOps Practitioner
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ardan-adi-nugroho-aab54b215)
+[![Website](https://img.shields.io/badge/Website-aransmate.com-111827?style=flat-square&logo=globe)](https://aransmate.com)
+[![Email](https://img.shields.io/badge/Email-ardanaran@student.uns.ac.id-EA4335?style=flat-square&logo=gmail)](mailto:ardanaran@student.uns.ac.id)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Remote%20%26%20Freelance-22C55E?style=flat-square)](https://aransmate.com)
 
-### 🚀 About Me
-
-Saya adalah seorang **Full-Stack Web Developer** berpengalaman lebih dari 7 tahun dalam membangun aplikasi web performa tinggi, sistem backend skala besar, dan pengelolaan infrastruktur server. Spesialisasi saya terletak pada arsitektur pengolahan data asinkron (*task management*), pemrosesan data (*web scraping*), otomasi pihak ketiga, serta integrasi AI modern ke dalam alur kerja aplikasi.
-
-- 💼 **Karier:** Mantan IT Manager di Aksiberbagi.com & Backend Developer di PT Layana Computindo.
-- 🌱 **Fokus Saat Ini:** Optimasi arsitektur microservices, SaaS multi-tenant, dan sistem berbasis antrean data (*job queues*).
-- ⚙️ **DevOps Mindset:** Terbiasa memangkas *server downtime* hingga 40% dan mengoptimalkan performa database menggunakan metrik monitoring riil.
-- ✉️ **Hubungi Saya:** [LinkedIn](https://www.linkedin.com/in/ardan-adi-nugroho-aab54b215) | [Email](mailto:ardanaran@student.uns.ac.id) | [Website](https://aransmate.com)
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 👋 About Me
 
-#### 🌍 Front-End Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Astro-BC343A?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>
-</p>
+Fullstack Engineer with **5+ years** of hands-on experience building production-grade SaaS platforms, high-throughput backend systems, and DevOps infrastructure. I've independently built 4 SaaS products from scratch — spanning edtech, fintech, and marketing — and managed full-stack operations for platforms serving thousands of users.
 
-#### ⚙️ Back-End Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Go/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-#### 🗄️ Database, Queue, & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
+- 🏗️ **Currently building:** CBT360, BankSync Automator, FinFamily Pro, ProSite Builder
+- ⚡ **Reduced server downtime by 40%** and **improved DB performance by 25%** at Aksiberbagi.com
+- 🤖 **AI enthusiast:** integrating OpenAI & Anthropic APIs into real production workflows
+- 🌐 **Open to:** Remote fullstack roles · SaaS startups · Freelance & contract projects
 
 ---
 
-### 🌟 Featured SaaS & Independent Projects
+## 🛠️ Tech Stack
 
-#### 🏦 [BankSync Automator](https://github.com/rizqipohong) *(SaaS Solution)*
-Sistem monitoring mutasi transaksi bank otomatis berbasis arsitektur **Express.js Worker**.
-- **Tech Stack:** Express.js, Redis, BullMQ, Webhooks.
-- **Key Features:** Manajemen antrean *background job* menggunakan BullMQ untuk proses *fetching* berkala, enkripsi data kredensial bank, dan sistem notifikasi webhook instan saat mendeteksi mutasi baru ke *endpoint* klien.
+#### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-#### 📈 [FinFamily Pro](https://github.com/rizqipohong) *(AI Financial Management)*
-Platform manajemen keuangan keluarga berbasis SaaS *multi-tenant* yang terintegrasi dengan kecerdasan buatan.
-- **Tech Stack:** Laravel 10+, OCR Machine Learning, Database Encryption.
-- **Key Features:** Pemindaian struk belanja otomatis menggunakan AI/OCR, manajemen akun multi-user (kontrol akses orang tua/anak), instrumen pelacakan aset/utang, serta visualisasi proyeksi finansial *real-time*.
+#### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC343A?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-#### 📝 [CBT360](https://github.com/rizqipohong) *(Full-Stack Online Assessment)*
-SaaS platform ujian online tangguh yang mampu menangani lebih dari 500 pengguna bersamaan (*concurrent users*).
-- **Tech Stack:** Express.js (Backend), Vue.js (Frontend).
-- **Key Features:** Penerapan *Item Response Theory* (IRT) untuk kalibrasi soal secara adaptif, dashboard multi-role (admin, pengawas, peserta), serta analisis prediksi kelulusan berbasis AI.
+#### Async & Queue
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-Integrations-6366F1?style=flat-square)
 
-#### 🛠️ [ProSite Builder](https://github.com/rizqipohong) *(SEO & Marketing Platform)*
-Platform pembuatan profil perusahaan *multi-template* dengan optimasi kecepatan tinggi berstandar industri.
-- **Tech Stack:** Astro (Static Site Generation), Laravel (Backend & CMS).
-- **Key Features:** Skor Core Web Vitals 90+, generator skema terstruktur (JSON-LD), integrasi dashboard Google Analytics 4 langsung di panel admin, serta pelacakan konversi iklan (UTM & ROI analytics).
+#### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rizqipohong&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ardan's GitHub Stats" width="48%"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqipohong&layout=compact&theme=dark" alt="Top Languages" width="48%"/> -->
-</p>
+### 🏦 BankSync Automator — Real-Time Bank Mutation Monitor
+> SaaS · Express.js · BullMQ · Redis · Webhooks
 
-<p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizqipohong&theme=dark" alt="GitHub Streak" width="100%"/> -->
-</p>
+Automated bank transaction monitoring system with job queue management and instant webhook delivery to client endpoints. Handles multiple bank accounts simultaneously with retry mechanisms and credential encryption.
+
+**Key wins:** Scalable background job architecture · Configurable webhook policies · Secure multi-bank credential management
 
 ---
 
-<p align="center">
-  <i>"Transforming complex algorithms into scalable, reliable, and clean software architectures."</i>
-</p>
+### 📝 CBT360 — Online Assessment Platform with IRT & AI
+> SaaS · Express.js · Vue.js · Item Response Theory · AI
+
+Full-stack online exam platform capable of handling **500+ concurrent users**. Features adaptive testing via Item Response Theory, AI-powered pass prediction, and multi-role dashboards for admins, proctors, and exam takers.
+
+**Key wins:** IRT-based adaptive testing · Subscription SaaS model · Real-time monitoring dashboard
+
+---
+
+### 💰 FinFamily Pro — AI-Powered Family Finance SaaS
+> SaaS · Laravel 10+ · OCR/ML · Multi-tenant
+
+Family finance management platform with AI receipt scanning, multi-user accounts with role-based access (parent/child), asset & debt tracking, and real-time financial projections.
+
+**Key wins:** OCR-powered auto-categorization · End-to-end encrypted financial data · Tiered SaaS billing
+
+---
+
+### 🌐 ProSite Builder — SEO-Optimized Company Profile Platform
+> Freelance · Astro · Laravel · Google Analytics 4
+
+Multi-template company profile platform achieving **Core Web Vitals 90+** with structured data (JSON-LD), GA4 admin dashboard, UTM/ROI tracking, and drag-and-drop content editor.
+
+**Key wins:** 5+ ready-to-deploy industry templates · AMP & Open Graph · CDN-ready architecture
+
+---
+
+## 📊 Production Impact
+
+| Metric | Achievement |
+|---|---|
+| Server downtime reduction | **↓ 40%** via Docker, CI/CD, Prometheus/Grafana monitoring |
+| Database query optimization | **↑ 25%** efficiency at PT Layana Computindo |
+| Concurrent user capacity | **500+** on CBT360 platform |
+| Platforms managed simultaneously | **3–5** projects in software house environment |
+| Internal platforms maintained | **10+ web admin + 10 frontend apps** at Aksiberbagi.com |
+
+---
+
+## 💼 Work Experience
+
+**IT Manager & Fullstack Developer** — Aksiberbagi.com *(Mar 2021 – Present)*  
+Led IT team across 20+ platforms; managed full VPS infrastructure, CI/CD pipelines, digital payment integrations, and digital advertising operations.
+
+**Backend Developer** — PT Layana Computindo / LAYANA.ID *(Aug 2022 – Dec 2025)*  
+Built backend APIs for HR, ERP, Flight, and Travel Management systems across multiple enterprise clients.
+
+---
+
+## 🎓 Education
+
+**B.Sc. Statistics** — Universitas Sebelas Maret (UNS), Surakarta · 2015–2019 · GPA 3.25  
+*PPA UNS Scholarship recipient*
+
+---
+
+<div align="center">
+
+*"Transforming complex problems into scalable, reliable software — one queue at a time."*
+
+</div>
